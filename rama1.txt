@@ -1,3 +1,7 @@
 nueva rama
+<<<<<<< HEAD
 Unas nuevas lineas aqui
 Realizamos unos cambios en este archivo
+=======
+Cambios en esta rama.
+>>>>>>> albamegias
